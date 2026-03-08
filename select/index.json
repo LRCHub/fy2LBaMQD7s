@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Libra heart",
+  "base_artist": "imaizumiyui",
+  "createdAt": "2026-03-08T06:14:32.820559Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Libra heart",
+      "artist": "imaizumiyui",
+      "has_synced": false,
+      "path": "select/01_Libra_heart_imaizumiyui.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Libra heart",
+      "artist": "imaizumiyui",
+      "has_synced": false,
+      "path": "select/pl_01_Libra_heart_imaizumiyui.txt"
+    }
+  ]
+}
